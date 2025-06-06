@@ -7,9 +7,9 @@
 ## 2. Healthcare Provider Comparison Tool  
 **Problem:** Healthcare Provider Comparison Tool
 Medical costs can be confusing, and finding the right provider at the right price is tough. This tool helps people compare hospitals and clinics based on pricing, insurance coverage, and reviews, so they can make smarter healthcare decisions without all the guesswork.
-**APIs Used:** CMS API, National Provider Identifier API, Google Maps API  
+**APIs to use:** CMS API, National Provider Identifier API, Google Maps API  
 
 ## 3. Travel Planner Tool (Idea I'd like the most to work on)
 **Problem:** Planning a trip can be overwhelming with so many options and things to consider. This tool helps users find great destinations, plan their itinerary, and adjust for seasonal weather-whether they want a beach getaway, a city adventure, or a nature retreat. It makes travel planning quick and stress-free with curated suggestions and route optimization.
-**APIs Used:** OpenWeather API, Google Places API, Skyscanner API  
+**APIs to use:** OpenWeather API, Google Places API, Skyscanner API  
 
