@@ -100,6 +100,6 @@ The backend will integrate with the OpenWeather API, Google Places API, and Skys
 
 ## 8. Stretch Goals
 
-- User Feedback: Allow users to rate destinations or provide trip notes  
-- Social Sharing: Enable users to share itineraries with friends or family 
-- Mobile App Version: Convert the web app into a React Native mobile application
+- User Feedback: Allowing users to rate destinations or provide trip notes  
+- Social Sharing: Enabling users to share itineraries with friends or family 
+- Mobile App Version: Converting the web app into a React Native mobile application
